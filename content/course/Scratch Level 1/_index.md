@@ -20,7 +20,7 @@ tags:
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+The 6-week kids Scratch coding class is a fun and interactive program designed to introduce children to the world of coding. Students will learn the basics of Scratch, a visual programming language developed by MIT, and use it to create their own interactive stories, games, and animations.
 
 ## Courses in this program
 
