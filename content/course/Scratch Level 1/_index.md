@@ -1,5 +1,5 @@
 ---
-title: 🤖 Scratch Level 1: Game Superstar
+title: 🤖 Scratch Level 1
 linkTitle: Scratch Level 1: Game Superstar
 summary: Scratch coding class is an interactive program that introduces kids to coding through visual programming tools. Kids will develop skills in logic, problem-solving, and critical thinking while creating their own interactive projects.
 date: '2022-04-13'
