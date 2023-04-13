@@ -1,7 +1,7 @@
 ---
 title: 🤖 Learn Sctatch
 linkTitle: Learn Robotics
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: This 6-week Scratch coding class for kids is a fun and interactive program that introduces children to coding.
 date: '2021-01-24'
 type: book
 tags:
