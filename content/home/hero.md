@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: Code with Claire
 hero_media: teacher.png
 design:
   background:
@@ -26,8 +26,7 @@ advanced:
 
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+Welcome to Code with Claire! This program is designed to provide children with an introduction to the world of computer programming in a fun and engaging way. Our goal is to help kids develop valuable skills in logic, problem-solving, and critical thinking, while also fostering their creativity and imagination.
 
-Introduce your courses here.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+
