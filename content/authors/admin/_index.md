@@ -6,9 +6,9 @@ bio: "I am an assistant professor in data science with specific training and
   expertise in statistical genetics, statistical learning, prediction of time
   series and discrete-valued process at St. Cloud State university. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Learning Languages
+  - Travel
+  - Art
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,7 +29,7 @@ education:
       year: 2015
     - course: Master in Statistics
       institution: University Paris 6 Pierre and Marie Curie
-      year: 20010
+      year: 2010
     - course: BSc in Mathematics
       institution: Northwest University, Xi'an, Shaanxi, China
       year: 2009
