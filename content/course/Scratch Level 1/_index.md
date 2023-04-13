@@ -24,6 +24,7 @@ The 6-week kids Scratch coding class is a fun and interactive program designed t
 
 Over the course of six weeks, students will explore the fundamentals of coding, including logic, loops, and conditionals, and apply them to create their own Scratch projects. By the end of the class, students will have developed a range of coding skills and gained the confidence to continue exploring the exciting world of computer programming.
 
+This class is perfect for kids aged 6-11 who are interested in coding and want to learn in a supportive and engaging environment. No previous coding experience is required, and all materials will be provided. Sign up now to give your child the opportunity to learn a valuable new skill!
 
 ## Courses in this program
 
