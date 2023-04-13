@@ -1,11 +1,11 @@
 ---
-title: 📊 Learn Scratch
-linkTitle: Scratch Level 1: Game SuperStar
-summary: Scratch coding class is an interactive program that introduces kids to coding through visual programming tools.
-date: '2023-04-13'
+title: 🤖 Learn Scratch
+linkTitle: Scratch Level 1 Game Superstar
+summary: This 6-week Scratch coding class for kids is a fun and interactive program that introduces children to coding.
+date: '2021-01-24'
 type: book
 tags:
-  - current
+  - previous
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -24,6 +24,7 @@ The 6-week kids Scratch coding class is a fun and interactive program designed t
 
 Over the course of six weeks, students will explore the fundamentals of coding, including logic, loops, and conditionals, and apply them to create their own Scratch projects. By the end of the class, students will have developed a range of coding skills and gained the confidence to continue exploring the exciting world of computer programming.
 
+This class is perfect for kids aged 6-11 who are interested in coding and want to learn in a supportive and engaging environment. No previous coding experience is required, and all materials will be provided. Sign up now to give your child the opportunity to learn a valuable new skill!
 
 ## Courses in this program
 
