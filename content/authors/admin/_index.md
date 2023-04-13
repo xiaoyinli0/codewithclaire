@@ -1,7 +1,7 @@
 ---
 title: Xiaoyin Li
 role: Scratch Instructor
-avatar_filename: img_8560.jpg
+avatar_filename: avatar.jpg
 bio: "I am an assistant professor in data science with specific training and
   expertise in statistical genetics, statistical learning, prediction of time
   series and discrete-valued process at St. Cloud State university. "
