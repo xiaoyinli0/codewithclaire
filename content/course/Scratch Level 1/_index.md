@@ -1,11 +1,11 @@
 ---
-title: 📊 Learn Scratch
-linkTitle: Scratch Level 1: Game SuperStar
-summary: Scratch coding class is an interactive program that introduces kids to coding through visual programming tools.
-date: '2023-04-13'
+title: 🤖 Learn Robotics
+linkTitle: Learn Robotics
+summary: An example of using Wowchemy's Book layout for publishing online courses.
+date: '2021-01-24'
 type: book
 tags:
-  - current
+  - previous
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -20,10 +20,7 @@ tags:
 
 ## Program overview
 
-The 6-week kids Scratch coding class is a fun and interactive program designed to introduce children to the world of coding. Students will learn the basics of Scratch, a visual programming language developed by MIT, and use it to create their own interactive stories, games, and animations.
-
-Over the course of six weeks, students will explore the fundamentals of coding, including logic, loops, and conditionals, and apply them to create their own Scratch projects. By the end of the class, students will have developed a range of coding skills and gained the confidence to continue exploring the exciting world of computer programming.
-
+The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
 
 ## Courses in this program
 
