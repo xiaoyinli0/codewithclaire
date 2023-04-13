@@ -1,63 +1,42 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Python Instructor
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Xiaoyin Li
+role: Scratch Instructor
+avatar_filename: img_8560.jpg
+bio: "I am an assistant professor in data science with specific training and
+  expertise in statistical genetics, statistical learning, prediction of time
+  series and discrete-valued process at St. Cloud State university. "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: mailto:xiaoyin.li@stcloudstate.edu
+  - icon: Linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    link: https://www.linkedin.com/in/xiaoyin-li-77605333/
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=0gc8_28AAAAJ&hl=en
+    icon_pack: ai
+    icon: Google Scolar
+organizations: []
+education:
+  courses:
+    - course: PhD in Statistics
+      institution: Cergy Pontoise University (France)
+      year: 2015
+    - course: Master in Statistics
+      institution: University Paris 6 Pierre and Marie Curie
+      year: 20010
+    - course: BSc in Mathematics
+      institution: Northwest University, Xi'an, Shaanxi, China
+      year: 2009
+email: ""
+superuser: true
 user_groups:
   - Teachers
+highlight_name: false
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an experienced  data scientist with expertise in high-dimensional genomic data analysis. My skills include programming in R, SAS, and C++, as well as proficiency in various libraries and computing tools. I currently work as a statistical consultant and assistant professor of data sciences at St. Cloud State University. In my previous roles, I taught statistics courses, conducted research, and collaborated with professionals in the field of human genetics. I hold a PhD in Statistics from Cergy-Pontoise University (France) and a Master of Statistics from University Paris 6 Pierre and Marie Curie(France).
