@@ -1,6 +1,6 @@
 ---
 title: Join Our Exciting Scratch Coding Class for Kids!
-date: 2020-12-01
+date: 2023-04-13T05:00:00.000Z
 ---
 Join Our Exciting Scratch Coding Class for Kids!
 
