@@ -22,6 +22,9 @@ tags:
 
 The 6-week kids Scratch coding class is a fun and interactive program designed to introduce children to the world of coding. Students will learn the basics of Scratch, a visual programming language developed by MIT, and use it to create their own interactive stories, games, and animations.
 
+Over the course of six weeks, students will explore the fundamentals of coding, including logic, loops, and conditionals, and apply them to create their own Scratch projects. By the end of the class, students will have developed a range of coding skills and gained the confidence to continue exploring the exciting world of computer programming.
+
+
 ## Courses in this program
 
 {{< list_children >}}
