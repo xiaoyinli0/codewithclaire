@@ -4,6 +4,8 @@ date: 2023-04-13T05:00:00.000Z
 ---
 Join Our Exciting Scratch Coding Class for Kids!
 
+![](flyer-2.png)
+
 <!--more-->
 
 Attention all parents! Are you looking for a fun and engaging way to introduce your kids to the world of coding? Look no further! Our Scratch coding class for kids is here to provide a dynamic and interactive learning experience for your little ones.
