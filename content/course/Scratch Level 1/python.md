@@ -1,11 +1,11 @@
 ---
-title: Python basics
-date: '2021-01-01'
+title: Week 1 
+date: '2023-04-13'
 type: book
 weight: 20
 ---
 
-Build a foundation in Python.
+Introduction to Scratch. 
 
 <!--more-->
 
