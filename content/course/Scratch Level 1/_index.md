@@ -14,9 +14,13 @@ tags:
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Introduction to the Scratch environment and interface.
+- Basic programming concepts such as loops, conditional statements, and variables.
+- How to use Scratch's programming blocks to create animations and interactions.
+- How to create and modify sprites and backgrounds in Scratch.
+- How to use sound, music, and text in Scratch projects.
+- How to create simple games and interactive stories using Scratch.
+- Hands-on learning and experimentation through project-based methods.
 
 ## Program overview
 
@@ -26,7 +30,7 @@ Over the course of six weeks, students will explore the fundamentals of coding, 
 
 This class is perfect for kids aged 6-11 who are interested in coding and want to learn in a supportive and engaging environment. No previous coding experience is required, and all materials will be provided. Sign up now to give your child the opportunity to learn a valuable new skill!
 
-## Courses in this program
+## Modules in this course
 
 {{< list_children >}}
 
