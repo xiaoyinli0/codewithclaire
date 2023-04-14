@@ -1,7 +1,7 @@
 ---
 title: 🤖 Scratch Level 1
 linkTitle: Scratch Level 1 Game Superstar
-summary: A beginner level class where kids learn how to coding.
+summary: A beginner level class where kids learn how to code using Scratch is a fun and interactive way for children to learn the basics of programming.
 date: '2023-04-13'
 type: book
 tags:
