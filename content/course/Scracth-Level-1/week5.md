@@ -1,6 +1,6 @@
 ---
-title: Class 2 Basic Scratch Programming 
-date: '2021-01-01'
+title: Class 5  Advanced Scratch Programming 
+date: '2023-04-14'
 type: book
 weight: 20
 ---
@@ -8,55 +8,27 @@ weight: 20
 <!--more-->
 
 
-In this class, we'll learn some basic programming concepts in Scratch, such as motion and looks blocks, changing sprite size and position, creating animation, and using sound and music blocks. 
+In this class, we'll explore more advanced programming concepts in Scratch, such as custom blocks, message passing, and cloning. 
 
 
-## Using Motion and Looks Blocks 
+##  Custom Blocks 
 
-- Motion blocks are used to move and control the position of sprites. 
-- Some common motion blocks include "move," "turn," "go to," and "glide." 
-- Looks blocks are used to control the appearance of sprites. 
-- Some common looks blocks include "change size," "change color effect," "switch costume," and "next costume." 
+- Custom blocks are a way to group together a set of programming blocks so they can be reused in your program. - In Scratch, you can create custom blocks by selecting a set of blocks and using the "Make a Block" button. - Custom blocks make your program more organized and easier to understand. 
 
 
-## Changing Sprite Size and Position 
+## Message Passing 
 
-You can change the size and position of sprites using motion and looks blocks. 
-
-- To move a sprite to a specific location, use the "go to x: y:" block. 
-- To make a sprite grow or shrink, use the "change size by" block. 
+- Message passing is a way for sprites to communicate with each other. - In Scratch, you can use the "broadcast" block to send a message to other sprites, and the "when I receive" block to respond to a message. - Message passing is useful for creating multiplayer games or interactive simulations. 
 
 
-## Creating Animation 
 
-- Animation is the process of creating the illusion of motion by displaying a series of still images in rapid succession. 
+##  Cloning  
 
-- You can create animation in Scratch by changing the costume of a sprite over time. 
-
-- To create animation, use the "next costume" block and the "wait" block to control the timing between costume changes. 
+- Cloning is a way to create multiple copies of a sprite in your program. - In Scratch, you can use the "create clone of" block to create a clone of a sprite, and the "delete this clone" block to delete a clone. - Cloning is useful for creating games or simulations with multiple identical objects. 
 
 
-## Using Sound and Music Blocks 
-
-Scratch includes blocks for adding sound effects and music to your projects. 
-
-- You can use the "play sound" block to play a sound effect, and the "play note" block to play a musical note. 
-
-- You can also use the "wait" block to control the timing of when sounds and music play. 
-
- 
 
 ## Practice Examples: 
 
-1. Create a sprite that moves across the screen when you click the green flag. 
-
-2. Make a sprite change color and size when you press a key on the keyboard. 
-
-3. Create a simple animation of a butterfly flapping its wings. 
-
-4. Add sound effects to a game you created in Class 1. 
-
-5. Create a musical program that plays a song when you press a button. 
-
-That's it for Class 2! Practice creating programs using motion and looks blocks, changing sprite size and position, creating animation, and using sound and music blocks. We'll see you next time for more Scratch fun! 
-
+1. Create a custom block that moves a sprite a certain distance. 2. Use message passing to create a multiplayer game where two players can control different sprites. 3. Create a simulation where one sprite sends a message to another sprite to trigger an action. 4. Use cloning to create multiple enemies in a game. 5. Create a custom block that combines several programming blocks into one. 
+That's it for Class 5! Practice using custom blocks, message passing, and cloning to create more complex programs in Scratch. We'll see you next time for even more Scratch fun! 
