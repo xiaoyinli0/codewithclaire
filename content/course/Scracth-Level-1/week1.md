@@ -1,97 +1,63 @@
----
-title: Class 1 Introduction to Scratch 
-date: '2023-04-13'
+----
+title: Class 6 Final Project 
+date: '2021-01-01'
 type: book
-weight: 20
+weight: 30
 highlight: true
 tags:
-  - Introduction
+  - Final project
 ---
+
+
 
 <!--more-->
 
-Welcome to Scratch! In this class, we'll learn what Scratch is and how to use it to create fun projects like animations and games. 
+Congratulations! You've made it to the final class of our Scratch programming course. In this class, you will have the opportunity to showcase all of the skills you've learned by creating a final project. 
 
-## What is Scratch? 
+## Project Guidelines
 
-- Scratch is a programming language that allows you to create interactive stories, games, and animations. 
+1. Your project should demonstrate your mastery of Scratch programming concepts. 
 
-- It was created by the Lifelong Kindergarten Group at the Massachusetts Institute of Technology (MIT). 
+2. Your project should be a complete program that has a beginning, middle, and end. 
 
-- Scratch uses a graphical interface, which means that instead of typing code, you can drag and drop blocks to create programs. 
+3. Your project can be a game, simulation, or any other type of program you choose. 
 
-## The Scratch Interface 
+4. Your project should include a user interface and a scoring system. 
 
-When you open Scratch, you'll see the Scratch interface, which includes several parts: 
+5. Your project should be something that you are proud of and want to share with others. 
 
-- **The Stage**: This is where your project will be displayed. 
+## Tips for Success
 
-- **The Sprite List**: This is where you can see all of the sprites (characters) in your project. 
+1. Plan your project ahead of time. Consider the type of program you want to create and the programming concepts you want to incorporate. 
 
-- **The Block Palette**: This is where you can find all of the different blocks you can use to create your program. 
+2. Break your project down into smaller parts and work on each part separately. 
 
-- **The Scripts Area**: This is where you drag and drop blocks to create your program. 
+3. Test your program frequently to ensure that it is working properly. 
 
+4. Ask for help if you get stuck or need feedback. 
 
-## Creating Your First Scratch Project 
+## Presentation Guidelines: 
 
-Let's create our first Scratch project! Follow these steps: 
+1. You will have the opportunity to present your project to the class. 
 
-- Open Scratch. 
+2. You should prepare a brief explanation of your project, including the programming concepts you used and any challenges you faced. 
 
-- Delete the cat sprite by right-clicking on it and selecting "delete." 
-
-- Click on the "Choose a Sprite" button and select a new sprite (you can choose from the library or draw your own). 
-
-- Drag some blocks from the Block Palette to the Scripts Area to make your sprite move, change color, or say something. 
-
-- Click the green flag to see your program in action! 
+3. You should demonstrate your project to the class and allow time for questions and feedback. 
 
 
-## Introduction to Scratch Blocks 
+## Practice Examples 
 
-- Scratch blocks are the building blocks of your program. 
+1. Create a game where the player collects coins and avoids obstacles. 
 
-- Blocks are categorized by color (motion blocks are blue, sound blocks are purple, etc.). 
+2. Make a simulation of a natural phenomenon, such as weather patterns or animal behavior. 
 
-- You can snap blocks together to create programs. 
+3. Create a tool or app that solves a problem or makes a task easier. 
 
-- Some common blocks you'll use are: 
+4. Develop a quiz or educational program on a topic you are passionate about. 
 
-    - "move" blocks to make your sprite move. 
+5. Create a choose-your-own-adventure story with different paths and endings. 
 
-    - "say" blocks to make your sprite say something. 
+That's it for Class 6! We hope you enjoyed this course and learned a lot about Scratch programming. Don't forget to showcase your projects and share your accomplishments with others. Good luck in your future programming endeavors! 
 
-    - "change color" blocks to change the color of your sprite. 
-
-## Adding Sprites and Backgrounds 
-
-- Sprites are the characters or objects in your project. 
-
-- You can add sprites from the library or draw your own. 
-
-- Backgrounds are the scenery in your project. 
-
-- You can add backgrounds from the library or draw your own. 
-
-That's it for our first class! Practice creating some simple programs using blocks and sprites, and we'll see you next time for more Scratch fun! 
-
- 
-
-## Practice problems
-
-1. Create a dancing sprite: Use motion blocks to make a sprite move and look like it's dancing. You can add music or sounds to make it more fun. 
-
- 
-2. Make a talking sprite: Use the "say" blocks to make a sprite say something. You can add backgrounds and other sprites to create a scene. 
-
- 
-3. Create a game of catch: Use motion blocks to make one sprite throw an object (such as a ball) to another sprite, which catches it. You can use "if" blocks to make the catching sprite move to the right spot. 
-
- 
-4. Build an animation: Use motion and looks blocks to create a short animation. You can make a story or just create something fun to watch. 
-
- 
-5. Make a drawing program: Use motion blocks to make a sprite draw lines or shapes. You can change the color and size of the lines using "pen" blocks. 
 
 {{< /spoiler >}}
