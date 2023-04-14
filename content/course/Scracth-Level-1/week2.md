@@ -5,6 +5,8 @@ type: book
 weight: 20
 ---
 
+Learn some basic programming concepts in Scratch
+
 <!--more-->
 
 
