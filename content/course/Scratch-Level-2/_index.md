@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: 📊 Scratch Level 2
+linkTitle: Scratch Level 2
+summary: Scratch Level 2 introduces more advanced programming concepts and gives you the tools to create more complex programs.
+date: '2023-04-14'
 type: book
 tags:
   - current
