@@ -8,7 +8,7 @@ tags:
   - Scratch
 ---
 
-#  Class 2 Basic Scratch Programming 
+Class 2 Basic Scratch Programming 
 
 <!--more-->
 
