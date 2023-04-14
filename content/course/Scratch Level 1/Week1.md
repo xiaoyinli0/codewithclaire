@@ -5,8 +5,6 @@ type: book
 weight: 20
 ---
 
-Introduction to Scratch. 
-
 <!--more-->
 
 Welcome to Scratch! In this class, we'll learn what Scratch is and how to use it to create fun projects like animations and games. 
