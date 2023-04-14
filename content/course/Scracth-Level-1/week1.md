@@ -3,6 +3,9 @@ title: Class 1 Introduction to Scratch
 date: '2023-04-13'
 type: book
 weight: 20
+highlight: true
+tags:
+  - Introduction
 ---
 
 <!--more-->
@@ -55,11 +58,11 @@ Let's create our first Scratch project! Follow these steps:
 
 - Some common blocks you'll use are: 
 
-    + "move" blocks to make your sprite move. 
+    - "move" blocks to make your sprite move. 
 
-    + "say" blocks to make your sprite say something. 
+    - "say" blocks to make your sprite say something. 
 
-    + "change color" blocks to change the color of your sprite. 
+    - "change color" blocks to change the color of your sprite. 
 
 ## Adding Sprites and Backgrounds 
 
