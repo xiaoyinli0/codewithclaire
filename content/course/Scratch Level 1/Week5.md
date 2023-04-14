@@ -1,36 +1,53 @@
 ---
-title: Visualization
+title: Class 5 Advanced Scratch Programming 
 date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
 tags:
-  - Data Visualization
+  - Scratch
 ---
-
-Learn how to visualize data with Plotly.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+In this class, we'll explore more advanced programming concepts in Scratch, such as custom blocks, message passing, and cloning. 
 
-## Learn
+## Custom Blocks 
 
-{{< youtube hSPmj7mK6ng >}}
+- Custom blocks are a way to group together a set of programming blocks so they can be reused in your program. 
 
-## Quiz
+- In Scratch, you can create custom blocks by selecting a set of blocks and using the "Make a Block" button. 
 
-{{< spoiler text="When is a heatmap useful?" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-{{< /spoiler >}}
+- Custom blocks make your program more organized and easier to understand. 
 
-{{< spoiler text="Write Plotly code to render a bar chart" >}}
+## Message Passing 
 
-```python
-import plotly.express as px
-data_canada = px.data.gapminder().query("country == 'Canada'")
-fig = px.bar(data_canada, x='year', y='pop')
-fig.show()
-```
+- Message passing is a way for sprites to communicate with each other. 
+
+- In Scratch, you can use the "broadcast" block to send a message to other sprites, and the "when I receive" block to respond to a message. 
+
+- Message passing is useful for creating multiplayer games or interactive simulations. 
+
+## Cloning 
+
+- Cloning is a way to create multiple copies of a sprite in your program. 
+
+- In Scratch, you can use the "create clone of" block to create a clone of a sprite, and the "delete this clone" block to delete a clone. 
+
+- Cloning is useful for creating games or simulations with multiple identical objects. 
+
+## Practice Examples: 
+
+1. Create a custom block that moves a sprite a certain distance. 
+
+2. Use message passing to create a multiplayer game where two players can control different sprites. 
+
+3. Create a simulation where one sprite sends a message to another sprite to trigger an action. 
+
+4. Use cloning to create multiple enemies in a game. 
+
+5. Create a custom block that combines several programming blocks into one. 
+
+That's it for Class 5! Practice using custom blocks, message passing, and cloning to create more complex programs in Scratch. We'll see you next time for even more Scratch fun! 
 
 {{< /spoiler >}}
