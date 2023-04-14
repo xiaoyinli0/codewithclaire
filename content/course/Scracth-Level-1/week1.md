@@ -11,13 +11,15 @@ Welcome to Scratch!
 
 In this class, we'll learn what Scratch is and how to use it to create fun projects like animations and games. 
 
-## What is Scratch? 
+
+##  What is Scratch? 
 
 - Scratch is a programming language that allows you to create interactive stories, games, and animations. 
 
 - It was created by the Lifelong Kindergarten Group at the Massachusetts Institute of Technology (MIT). 
 
 - Scratch uses a graphical interface, which means that instead of typing code, you can drag and drop blocks to create programs. 
+
 
 ## The Scratch Interface 
 
@@ -30,6 +32,7 @@ When you open Scratch, you'll see the Scratch interface, which includes several 
 - **The Block Palette**: This is where you can find all of the different blocks you can use to create your program. 
 
 - **The Scripts Area**: This is where you drag and drop blocks to create your program. 
+
 
 
 ## Creating Your First Scratch Project 
@@ -76,7 +79,6 @@ Let's create our first Scratch project! Follow these steps:
 
 That's it for our first class! Practice creating some simple programs using blocks and sprites, and we'll see you next time for more Scratch fun! 
 
- 
 
 ## Practice problems
 
