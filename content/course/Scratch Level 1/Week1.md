@@ -1,5 +1,5 @@
 ---
-title: class 1 Introduction to Scratch 
+title: Class 1 Introduction to Scratch 
 date: '2023-04-13'
 type: book
 weight: 20
