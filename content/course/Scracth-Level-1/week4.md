@@ -1,6 +1,6 @@
 ---
-title: Class 2 Basic Scratch Programming 
-date: '2021-01-01'
+title: Class 4 Game Development with Scratch
+date: '2023-04-14'
 type: book
 weight: 20
 ---
@@ -8,55 +8,35 @@ weight: 20
 <!--more-->
 
 
-In this class, we'll learn some basic programming concepts in Scratch, such as motion and looks blocks, changing sprite size and position, creating animation, and using sound and music blocks. 
+In this class, we'll learn how to create games in Scratch using the programming concepts we've learned so far. We'll cover concepts such as game design, user interface, sprite interaction, and scoring systems. 
 
 
-## Using Motion and Looks Blocks 
+## Game Design
 
-- Motion blocks are used to move and control the position of sprites. 
-- Some common motion blocks include "move," "turn," "go to," and "glide." 
-- Looks blocks are used to control the appearance of sprites. 
-- Some common looks blocks include "change size," "change color effect," "switch costume," and "next costume." 
+Before you start programming your game, you need to have a plan for how the game will work and what it will look like. 
+Consider the type of game you want to create, the objectives and challenges of the game, and the visual and audio elements you will include. 
 
 
-## Changing Sprite Size and Position 
 
-You can change the size and position of sprites using motion and looks blocks. 
+## User Interface
 
-- To move a sprite to a specific location, use the "go to x: y:" block. 
-- To make a sprite grow or shrink, use the "change size by" block. 
+- The user interface is the way in which the player interacts with the game. - In Scratch, you can use buttons, text, and graphics to create a user interface. - Consider the layout of your game screen and how the player will navigate through the game. 
 
 
-## Creating Animation 
 
-- Animation is the process of creating the illusion of motion by displaying a series of still images in rapid succession. 
+## Sprite Interaction 
 
-- You can create animation in Scratch by changing the costume of a sprite over time. 
-
-- To create animation, use the "next costume" block and the "wait" block to control the timing between costume changes. 
+- In many games, sprites interact with each other in some way. - In Scratch, you can use "if-then" statements to control sprite interactions. - Consider the behaviors and movements of your sprites and how they will interact with each other. 
 
 
-## Using Sound and Music Blocks 
 
-Scratch includes blocks for adding sound effects and music to your projects. 
+## Scoring Systems 
 
-- You can use the "play sound" block to play a sound effect, and the "play note" block to play a musical note. 
-
-- You can also use the "wait" block to control the timing of when sounds and music play. 
-
+- Scoring systems are used to keep track of a player's progress in a game. - In Scratch, you can use variables to keep track of a player's score. - Consider the actions that will earn the player points and how those actions will affect the game. 
+ 
  
 
 ## Practice Examples: 
 
-1. Create a sprite that moves across the screen when you click the green flag. 
-
-2. Make a sprite change color and size when you press a key on the keyboard. 
-
-3. Create a simple animation of a butterfly flapping its wings. 
-
-4. Add sound effects to a game you created in Class 1. 
-
-5. Create a musical program that plays a song when you press a button. 
-
-That's it for Class 2! Practice creating programs using motion and looks blocks, changing sprite size and position, creating animation, and using sound and music blocks. We'll see you next time for more Scratch fun! 
-
+1. Create a simple game where the player moves a sprite to collect objects and avoid obstacles. 2. Make a game where the player needs to answer trivia questions to progress. 3. Create a platformer game where the player must jump to avoid obstacles and reach the end. 4. Add power-ups or bonuses to a game you created in Class 3. 5. Create a game with multiple levels and increasing difficulty. 
+That's it for Class 4! Practice designing and programming games in Scratch using the concepts we've learned so far. We'll see you next time for even more Scratch fun! 
