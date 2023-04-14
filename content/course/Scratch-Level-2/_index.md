@@ -1,7 +1,7 @@
 ---
 title: 📊 Scratch Level 2
 linkTitle: Scratch Level 2
-summary: Scratch Level 2 introduces more advanced programming concepts and gives you the tools to create more complex programs.
+summary: Introduce more advanced programming concepts.
 date: '2023-04-14'
 type: book
 tags:
