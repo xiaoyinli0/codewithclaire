@@ -1,7 +1,7 @@
 ---
 title: 📊 Scratch Level 2
 linkTitle: Scratch Level 2
-summary: Introduce more advanced programming concepts.
+summary:  A follow-up course that builds on the skills learned in a beginner class for kids, allowing them to create more advanced projects using sophisticated coding techniques.
 date: '2023-04-14'
 type: book
 tags:
