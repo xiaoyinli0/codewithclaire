@@ -44,8 +44,8 @@ This class is perfect for kids aged 6-11 who are interested in coding and want t
 There are no prerequisites for the first course.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="When does the course start?" >}}
+The course starts on April 29th, and we will meet every Saturday from 10:00-11:00 am for 6 weeks.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="week1" >}}
