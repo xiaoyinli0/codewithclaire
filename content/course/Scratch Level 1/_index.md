@@ -1,5 +1,5 @@
 ---
-title: 🤖 Learn Scratch
+title: 🤖 Scratch Level 1
 linkTitle: Scratch Level 1 Game Superstar
 summary: This 6-week Scratch coding class for kids is a fun and interactive program that introduces children to coding.
 date: '2021-01-24'
