@@ -1,5 +1,5 @@
 ---
-title: Python basics
+title: Class 1 Introduction to Scratch
 date: '2021-01-01'
 type: book
 weight: 20
