@@ -1,63 +1,37 @@
-----
-title: Class 6 Final Project 
+---
+title: Python basics
 date: '2021-01-01'
 type: book
-weight: 30
-highlight: true
-tags:
-  - Final project
+weight: 20
 ---
 
-
+Build a foundation in Python.
 
 <!--more-->
 
-Congratulations! You've made it to the final class of our Scratch programming course. In this class, you will have the opportunity to showcase all of the skills you've learned by creating a final project. 
+{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
 
-## Project Guidelines
+## Learn
 
-1. Your project should demonstrate your mastery of Scratch programming concepts. 
+{{< youtube rfscVS0vtbw >}}
 
-2. Your project should be a complete program that has a beginning, middle, and end. 
+## Quiz
 
-3. Your project can be a game, simulation, or any other type of program you choose. 
+{{< spoiler text="What is the difference between lists and tuples?" >}}
+Lists
 
-4. Your project should include a user interface and a scoring system. 
+- Lists are mutable - they can be changed
+- Slower than tuples
+- Syntax: `a_list = [1, 2.0, 'Hello world']`
 
-5. Your project should be something that you are proud of and want to share with others. 
+Tuples
 
-## Tips for Success
+- Tuples are immutable - they can't be changed
+- Tuples are faster than lists
+- Syntax: `a_tuple = (1, 2.0, 'Hello world')`
+  {{< /spoiler >}}
 
-1. Plan your project ahead of time. Consider the type of program you want to create and the programming concepts you want to incorporate. 
-
-2. Break your project down into smaller parts and work on each part separately. 
-
-3. Test your program frequently to ensure that it is working properly. 
-
-4. Ask for help if you get stuck or need feedback. 
-
-## Presentation Guidelines: 
-
-1. You will have the opportunity to present your project to the class. 
-
-2. You should prepare a brief explanation of your project, including the programming concepts you used and any challenges you faced. 
-
-3. You should demonstrate your project to the class and allow time for questions and feedback. 
-
-
-## Practice Examples 
-
-1. Create a game where the player collects coins and avoids obstacles. 
-
-2. Make a simulation of a natural phenomenon, such as weather patterns or animal behavior. 
-
-3. Create a tool or app that solves a problem or makes a task easier. 
-
-4. Develop a quiz or educational program on a topic you are passionate about. 
-
-5. Create a choose-your-own-adventure story with different paths and endings. 
-
-That's it for Class 6! We hope you enjoyed this course and learned a lot about Scratch programming. Don't forget to showcase your projects and share your accomplishments with others. Good luck in your future programming endeavors! 
-
-
+{{< spoiler text="Is Python case-sensitive?" >}}
+Yes
 {{< /spoiler >}}
+
