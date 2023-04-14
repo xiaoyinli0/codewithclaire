@@ -5,7 +5,7 @@ summary: This 6-week Scratch coding class for kids is a fun and interactive prog
 date: '2021-01-24'
 type: book
 tags:
-  - previous
+  - current
 ---
 
 {{< figure src="featured.jpg" >}}
