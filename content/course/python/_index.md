@@ -1,7 +1,7 @@
 ---
-title: 🤖 Learn Robotics
-linkTitle: Learn Robotics
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: 🤖 Learn Python
+linkTitle: Learn Python
+summary: Introduction to python for kids.
 date: '2021-01-24'
 type: book
 tags:
@@ -12,19 +12,26 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+Welcome to the Python class for kids! In this class, we will be learning the basics of programming with Python, a popular and powerful programming language. Python is a great language for kids to learn because it has a simple syntax, is easy to understand, and can be used to create a wide variety of projects.
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+Throughout this class, we will cover the following topics:
+
+- Basic Python syntax: We will start by learning the basics of Python syntax, including variables, data types, operators, functions, and loops.
+
+- Simple projects: We will build simple Python projects like guessing games, calculators, and text-based adventures. These projects will help you to practice your programming skills while also having fun!
+
+- Advanced Python concepts: As you become more comfortable with Python, we will explore more advanced concepts like conditional statements, file input/output, and object-oriented programming.
+
+- Collaboration and problem-solving: In addition to learning programming skills, we will also focus on collaboration and problem-solving. We will work together on group projects and explore ways to solve problems through programming.
+
+By the end of this class, you will have a solid foundation in Python programming and be able to create your own Python projects. Whether you want to become a software developer, data analyst, or just explore your curiosity, Python is a great language to learn and we're excited to explore it together!
 
 ## Program overview
-
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Coming soon!
 
 ## Courses in this program
 
-{{< list_children >}}
+Coming soon!
 
 ## Meet your instructor
 
@@ -33,11 +40,12 @@ The demand for skilled data science practitioners is rapidly growing. Lorem ipsu
 ## FAQs
 
 {{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
+Students enrolling in this course should be comfortable with:
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+- Using a computer, keyboard, email, and browser
+- Managing files
+- Attaching files
+- Compressing/decompressing files
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="python" >}}
