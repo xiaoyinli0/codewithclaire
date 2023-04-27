@@ -20,6 +20,8 @@ In this class, we'll learn what Scratch is and how to use it to create fun proje
 
 - Scratch uses a graphical interface, which means that instead of typing code, you can drag and drop blocks to create programs. 
 
+##  Pre
+
 
 ## The Scratch Interface 
 
