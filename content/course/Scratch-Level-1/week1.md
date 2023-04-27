@@ -23,6 +23,8 @@ In this class, we'll learn what Scratch is and how to use it to create fun proje
 
 ## The Scratch Interface 
 
+{{< youtube NqMd44Oi2l4>}}
+
 When you open Scratch, you'll see the Scratch interface, which includes several parts: 
 
 - **The Stage**: This is where your project will be displayed. 
