@@ -25,6 +25,7 @@ In this class, we'll learn what Scratch is and how to use it to create fun proje
 
 {{< youtube NqMd44Oi2l4>}}
 
+
 When you open Scratch, you'll see the Scratch interface, which includes several parts: 
 
 - **The Stage**: This is where your project will be displayed. 
@@ -70,6 +71,8 @@ Let's create our first Scratch project! Follow these steps:
 
 
 ## Adding Sprites and Backgrounds 
+
+{{< youtube R-QuPKDAADE>}}
 
 - Sprites are the characters or objects in your project. 
 
